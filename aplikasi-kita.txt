@@ -4,6 +4,7 @@ Beberapa Fitur pada Aplikasi yaitu :
 - LoginScreen
 - Register
 
+- New
 Bahasa Pemrograman Android
 = Kotlin
 
