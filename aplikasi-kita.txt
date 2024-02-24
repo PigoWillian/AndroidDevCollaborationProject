@@ -2,6 +2,9 @@ Beberapa Fitur pada Aplikasi yaitu :
 
 - SplashScreen
 - LoginScreen
+- Register
 
 Bahasa Pemrograman Android
 = Kotlin
+
+
